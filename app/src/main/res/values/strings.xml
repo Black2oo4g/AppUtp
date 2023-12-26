@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AppUtpinder</string>
+    <string-array name="sede">
+        <item>Piura</item>
+        <item>No Disponible</item>
+    </string-array>
+    <string-array name="carrera">
+        <item>Ing. de Sistemas</item>
+        <item>No Disponible</item>
+    </string-array>
 </resources>
